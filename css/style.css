@@ -1,0 +1,30 @@
+body {
+    background-color: #252323;
+  }
+  
+  .login-card {
+    background-color: #F5F1ED;
+    border-radius: 10px;
+    width: 507px;
+    height: 603px;
+  }
+  
+  .logo-img {
+    max-width: 150px;
+  }
+  
+  .custom-input {
+    background-color: #FFFFFF;
+    width: 396px;
+    height: 52px;
+  }
+  
+  .btn-primary {
+    background-color: #1E76BD;
+    border: none;
+  }
+  
+  .btn-primary:hover {
+    background-color: #0056b3;
+  }
+  
